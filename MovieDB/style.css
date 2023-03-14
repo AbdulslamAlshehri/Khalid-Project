@@ -1,0 +1,29 @@
+body{
+    position: relative;
+background-image: url("")}
+
+.bar {
+    position: relative;
+    margin-top:2% ;
+
+    background-image: linear-gradient(to right,antiquewhite,#07e1ff);
+    border-radius: 30px;
+}
+.Options {
+    position: relative;
+    display: inline;
+    border-right-width: thick;
+    border-right: black;
+    margin-right: 18%;
+
+}
+
+.Options:first-child{
+
+
+}
+.search {
+    position: relative;
+    width: 15px;
+    height: 15px;
+}
